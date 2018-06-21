@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1529544358 source:c:\users\sándor\documents\c++\felkeszules_vizsgara\template_alapok\main.cpp
+	<iostream>
+	"alma.h"
+
+1529544523 c:\users\sándor\documents\c++\felkeszules_vizsgara\template_alapok\alma.h
+
+1529545914 source:c:\users\sándor\documents\c++\felkeszules_vizsgara\template_alapok_outline_alosztalyal\alma.cpp
+	"alma.h"
+
+1529547939 c:\users\sándor\documents\c++\felkeszules_vizsgara\template_alapok_outline_alosztalyal\alma.h
+

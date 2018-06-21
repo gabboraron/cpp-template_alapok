@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1529593505 source:c:\users\sándor\documents\c++\felkeszules_vizsgara\template_specializacio\specializalt_template\main.cpp
+	<iostream>
+	"spec_template.h"
+
+1529594904 c:\users\sándor\documents\c++\felkeszules_vizsgara\template_specializacio\specializalt_template\spec_template.h
+
+1529597381 source:c:\users\sándor\documents\c++\felkeszules_vizsgara\template_specializacio_egy_es_tobb_elemre\specializalt_template\main.cpp
+	<iostream>
+	"spec_template.h"
+
+1529597422 c:\users\sándor\documents\c++\felkeszules_vizsgara\template_specializacio_egy_es_tobb_elemre\specializalt_template\spec_template.h
+

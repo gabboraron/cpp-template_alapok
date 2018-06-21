@@ -7,3 +7,5 @@
 
 
 [C++ Haladóknak #41 - Template Specializáció](https://www.youtube.com/watch?v=zckepYUSD5M)
+
+[Multiple typename arguments in c++ template? - StackOwerflow](https://stackoverflow.com/questions/19923353/multiple-typename-arguments-in-c-template)

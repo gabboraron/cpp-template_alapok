@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1529581575 source:c:\users\sándor\documents\c++\felkeszules_vizsgara\alap_template_magamtol\magamtol_template\my_template.cpp
+	"my_template.h"
+
+1529583539 c:\users\sándor\documents\c++\felkeszules_vizsgara\alap_template_magamtol\magamtol_template\my_template.h
+
+1529583143 source:c:\users\sándor\documents\c++\felkeszules_vizsgara\alap_template_magamtol\magamtol_template\main.cpp
+	<iostream>
+	"my_template.h"
+
+1529584053 source:c:\users\sándor\documents\c++\felkeszules_vizsgara\alap_template_magamtol\magamtol_template\my_snd_template.cpp
+	"my_snd_template.h"
+
+1529584166 c:\users\sándor\documents\c++\felkeszules_vizsgara\alap_template_magamtol\magamtol_template\my_snd_template.h
+

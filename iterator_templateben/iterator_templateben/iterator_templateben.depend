@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1530131473 source:c:\users\sándor\documents\c++\felkeszules_vizsgara\iterator_templateben\iterator_templateben\main.cpp
+	<iostream>
+	"my_example_template_with_iterator.h"
+
+1530131719 c:\users\sándor\documents\c++\felkeszules_vizsgara\iterator_templateben\iterator_templateben\my_example_template_with_iterator.h
+	<vector>
+

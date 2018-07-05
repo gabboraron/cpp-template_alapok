@@ -9,3 +9,5 @@
 [C++ Haladóknak #41 - Template Specializáció](https://www.youtube.com/watch?v=zckepYUSD5M)
 
 [Multiple typename arguments in c++ template? - StackOwerflow](https://stackoverflow.com/questions/19923353/multiple-typename-arguments-in-c-template)
+
+[idiot guide to C++ templates Part I. ](https://www.codeproject.com/Articles/257589/An-Idiots-Guide-to-Cplusplus-Templates-Part)

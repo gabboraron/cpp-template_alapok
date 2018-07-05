@@ -1,6 +1,7 @@
 # Template programozás alapok
 
-[ Template example basic ] (http://www.tenouk.com/cpluscodesnippet/cplusnestedclasstemplate.html)
+
+[template example basic](http://www.tenouk.com/cpluscodesnippet/cplusnestedclasstemplate.html)
 
 [C++ Haladóknak #40.1 - Template](https://www.youtube.com/watch?v=jPSP9RCQvdE)
 
@@ -14,10 +15,10 @@
 
 [idiot guide to C++ templates Part I. ](https://www.codeproject.com/Articles/257589/An-Idiots-Guide-to-Cplusplus-Templates-Part)
 
-[Specializing C++ template functions for Arrays Containers, Strings] (http://cplusplus.bordoon.com/specializeForCharacterArrays.html)
+[Specializing C++ template functions for Arrays Containers, Strings](http://cplusplus.bordoon.com/specializeForCharacterArrays.html)
 
 [czirkos prog2](http://www.eet.bme.hu/~czirkos/infocpp.php)
 
 [infoc](https://infoc.eet.bme.hu/)
 
-[baziselte - CPP] (http://www.baziselte.hu/PROGNYELVEK-CPP)
+[baziselte - CPP](http://www.baziselte.hu/PROGNYELVEK-CPP)

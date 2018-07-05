@@ -1,6 +1,6 @@
 # Template programozás alapok
 
-[TEmplate example basic] (http://www.tenouk.com/cpluscodesnippet/cplusnestedclasstemplate.html)
+[ Template example basic ] (http://www.tenouk.com/cpluscodesnippet/cplusnestedclasstemplate.html)
 
 [C++ Haladóknak #40.1 - Template](https://www.youtube.com/watch?v=jPSP9RCQvdE)
 
